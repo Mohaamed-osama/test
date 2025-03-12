@@ -1,7 +1,7 @@
 {
     "clients": {
-        "aa": {
-            "expiry_date": "2024-04-15",
+        "demo": {
+            "expiry_date": "2024-01-15",
             "new_password": "aa1"
         }
     }
